@@ -238,6 +238,13 @@ body {
     list-style: none; 
 }
 
+.technology-text {
+    text-align: end;
+    color: #4C5F9A;
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
 .footer {
     background-color: #4C5F9A;
     padding: 4rem 0;
