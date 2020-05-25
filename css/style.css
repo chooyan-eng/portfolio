@@ -118,6 +118,10 @@ body {
     margin-bottom: 30px; 
 }
 
+.section-icon {
+    height: 12rem;
+}
+
 .sumbnail {
     width: 100%;
 }
